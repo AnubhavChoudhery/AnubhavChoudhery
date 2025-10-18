@@ -56,13 +56,3 @@ If you want the full matrix with logos, check the Skills section in this reposit
 - GitHub: https://github.com/AnubhavChoudhery
 
 Open to internships, research collaborations, and cool side projects. If you’ve got something interesting, I’d love to hear about it.
-
----
-
-## 📊 Optional stats
-
-These are auto-generated cards — feel free to ignore if you prefer a cleaner look.
-
-![Anubhav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AnubhavChoudhery&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavChoudhery&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=AnubhavChoudhery&theme=tokyonight)
