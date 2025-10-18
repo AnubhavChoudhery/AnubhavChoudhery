@@ -9,7 +9,7 @@ I build useful software across AI/ML, systems, and security — with a bias towa
 - Research at the intersection of ML and Security (MLOPT Research Group)
 - Cybersecurity Analyst Intern @ Culligan International (automation + analytics)
 - Lead/mentor in engineering orgs: Wisconsin Robotics, RoboKnights
-- Hobbies: Chess ([lichess.org/@/anubhav95](https://lichess.org/@/anubhav95)), drums, ping pong, pickleball; and yes, I’ll quote Star Wars if provoked
+- Hobbies: Chess ([lichess.org/@/anubhav95](https://lichess.org/@/anubhav95)), drums, ping pong, pickleball
 
 ---
 
@@ -28,7 +28,7 @@ I build useful software across AI/ML, systems, and security — with a bias towa
 
 ---
 
-## 🧠 Skills (selected)
+## 🧠 Skills
 
 - Languages: 🐍 Python • ⚡️ JavaScript/TypeScript • ☕ Java • 🔧 C • ➕➕ C++ • 🧩 Assembly • 🔌 SystemVerilog • 🎨 HTML/CSS • 📈 MATLAB • 🧰 Git
 - AI/ML & Data: 🔥 PyTorch • 🧠 TensorFlow • 🧬 Keras • 📚 scikit-learn • 🧩 LangChain • 🔐 Microsoft SEAL (HE) • 🐼 Pandas • 🔢 NumPy • 📊 Matplotlib
