@@ -36,8 +36,6 @@ I build useful software across AI/ML, systems, and security — with a bias towa
 - DevOps/Cloud/Automation: 🐳 Docker • ☁️ AWS • 🔷 Azure • ☁️ GCP • 🧪 Selenium • 📮 Postman • 🧱 Tmux • 🧭 CI basics
 - Visualization/UI: 🌈 Bokeh • 🧩 Panel • 📊 Matplotlib • 🅱️ Bootstrap • 🎨 Figma • 🎛️ Gradio • 📺 Streamlit
 
-If you want the full matrix with logos, check the Skills section in this repository’s website source.
-
 ---
 
 ## 🛠️ Tooling and preferences
@@ -53,6 +51,6 @@ If you want the full matrix with logos, check the Skills section in this reposit
 
 - Email: anubhavchoudhery@gmail.com
 - LinkedIn: https://linkedin.com/in/anubhav-ch
-- GitHub: https://github.com/AnubhavChoudhery
+- Website: https://anubhavchoudhery.github.io/Portfolio/
 
 Open to internships, research collaborations, and cool side projects. If you’ve got something interesting, I’d love to hear about it.
