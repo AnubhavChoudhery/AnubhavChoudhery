@@ -66,9 +66,9 @@ Whether it's **developing AI-powered applications, designing digital systems, or
 - Built a **Python Library/SDK** that generates **questionnaires from YouTube videos** using AI.
 - **Tech Stack:** Python | LLM APIs | yt-dlp | PyAV
 
-### **Mock Interviewer AI**
-- Created an **AI mock interviewer** that conducts **realistic practice interviews** (voice-to-voice) with feedback.
-- **Tech Stack:** Python | LLMs | AWS | FastAPI
+### **EZ-Chess**
+- Created an **explainable chess analysis tool** using LLMs with **MCP-style tooling** (Stockfish analysis, Lichess API). 
+- **Tech Stack:** Python | LLMs | MCP | Stockfish | Tkinter | Groq/Ollama
 
 ### **Edu QGen** 
 - Built a system that generates **educational questionnaires** from user-uploaded videos.
